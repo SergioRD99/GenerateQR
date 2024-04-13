@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "s3BEqAoGWcpqC8yAp+QjHuUEo2s51A8pvS0wDJmpcFnsXXPuZ7rFLW0Zk9xLGo1NT3WCao3WTYTh15iHqY6YgA==",
+  "dgSpecHash": "fMY4aDJ9PXPfb2gl358+0ZMR/cqlwezZMGguv5+9QxEGNjuyEtq8CQ3FmTH2ROVw+SWbd1RMkSDdww5YDX4tPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergi\\source\\repos\\GenerateQR\\WinQR\\WinQR.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\sergi\\Documents\\GitHub\\GenerateQR\\GenerateQR\\WinQR\\WinQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\zen.barcode.rendering.framework.3.1.10729.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Zen.Barcode.Rendering.Framework 3.1.10729.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Zen.Barcode.Rendering.Framework",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
 }
